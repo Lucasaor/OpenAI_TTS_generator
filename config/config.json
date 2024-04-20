@@ -1,0 +1,6 @@
+{
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "response_format": "mp3",
+    "default_output_folder": "/Users/lucas/Library/CloudStorage/OneDrive-Personal/Black Violet/VS/gerador_de_dicas/"
+}

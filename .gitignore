@@ -58,3 +58,6 @@ ENV/
 
 #environment variables
 .env
+
+#custom
+generated_audios/*
